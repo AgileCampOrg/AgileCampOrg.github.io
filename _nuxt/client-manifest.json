@@ -3,21 +3,21 @@
   "all": [
     "img/AgileCamp_new_web_2600_600.de50084.png",
     "img/ac_2017_lineup_background.8a3fe1b.jpg",
-    "0.nuxt.bundle.66900969b6cdb3b870a0.js",
+    "0.nuxt.bundle.8b38027d6bcc920b5552.js",
     "1.nuxt.bundle.f9df6c6419c4d5ee1ddb.js",
     "2.nuxt.bundle.acb3a77b5115016ce5e9.js",
     "vendor.bundle.67da9621010fd18cfda4.js",
-    "nuxt.bundle.14e22a660b50cd8d28ea.js",
-    "manifest.030f263b111945d7adba.js",
+    "nuxt.bundle.2aac545db5542e817fa5.js",
+    "manifest.e1f58697d7b8607f301a.js",
     "index.html"
   ],
   "initial": [
-    "manifest.030f263b111945d7adba.js",
+    "manifest.e1f58697d7b8607f301a.js",
     "vendor.bundle.67da9621010fd18cfda4.js",
-    "nuxt.bundle.14e22a660b50cd8d28ea.js"
+    "nuxt.bundle.2aac545db5542e817fa5.js"
   ],
   "async": [
-    "0.nuxt.bundle.66900969b6cdb3b870a0.js",
+    "0.nuxt.bundle.8b38027d6bcc920b5552.js",
     "1.nuxt.bundle.f9df6c6419c4d5ee1ddb.js",
     "2.nuxt.bundle.acb3a77b5115016ce5e9.js"
   ],
