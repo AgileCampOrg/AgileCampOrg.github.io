@@ -11,21 +11,21 @@
     "img/sponsor-nike-white.0c84e53.png",
     "img/bg-ac-lineup.8a3fe1b.jpg",
     "0.nuxt.bundle.049681430dea3a75fad6.js",
-    "1.nuxt.bundle.ae61317ac0cb68c03d3b.js",
+    "1.nuxt.bundle.695a0ec172bee3af2188.js",
     "2.nuxt.bundle.6b4d2fb5298f90904a0d.js",
     "vendor.bundle.e7c5074b7cc76742a244.js",
     "nuxt.bundle.97c75ee81760f75e195f.js",
-    "manifest.09434a0f7b93e5a8592c.js",
+    "manifest.8532d8638d8480647d38.js",
     "index.html"
   ],
   "initial": [
-    "manifest.09434a0f7b93e5a8592c.js",
+    "manifest.8532d8638d8480647d38.js",
     "vendor.bundle.e7c5074b7cc76742a244.js",
     "nuxt.bundle.97c75ee81760f75e195f.js"
   ],
   "async": [
     "0.nuxt.bundle.049681430dea3a75fad6.js",
-    "1.nuxt.bundle.ae61317ac0cb68c03d3b.js",
+    "1.nuxt.bundle.695a0ec172bee3af2188.js",
     "2.nuxt.bundle.6b4d2fb5298f90904a0d.js"
   ],
   "modules": {
