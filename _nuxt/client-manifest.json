@@ -20,23 +20,23 @@
     "img/sponsor-prudential.2116a7c.png",
     "img/sponsor-versionone-white.d9c6966.png",
     "img/sponsor-versionone.cdad5cd.png",
-    "0.nuxt.bundle.a872c4c503308bd17973.js",
-    "1.nuxt.bundle.a3668ca3c3aef6b5ee9d.js",
+    "0.nuxt.bundle.00e5a76b2c2eb62579a2.js",
+    "1.nuxt.bundle.035934e9dc17a01e3463.js",
     "2.nuxt.bundle.6d6b4e33b57a1e24ce51.js",
     "3.nuxt.bundle.d8f86022e25b086135c4.js",
     "vendor.bundle.12f828cd677e95514d3b.js",
     "nuxt.bundle.be09b005552a91dddab2.js",
-    "manifest.58f854a55673b0042be4.js",
+    "manifest.78f36910e598cae7886b.js",
     "index.html"
   ],
   "initial": [
-    "manifest.58f854a55673b0042be4.js",
+    "manifest.78f36910e598cae7886b.js",
     "vendor.bundle.12f828cd677e95514d3b.js",
     "nuxt.bundle.be09b005552a91dddab2.js"
   ],
   "async": [
-    "0.nuxt.bundle.a872c4c503308bd17973.js",
-    "1.nuxt.bundle.a3668ca3c3aef6b5ee9d.js",
+    "0.nuxt.bundle.00e5a76b2c2eb62579a2.js",
+    "1.nuxt.bundle.035934e9dc17a01e3463.js",
     "2.nuxt.bundle.6d6b4e33b57a1e24ce51.js",
     "3.nuxt.bundle.d8f86022e25b086135c4.js"
   ],
