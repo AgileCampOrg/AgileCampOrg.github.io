@@ -39,24 +39,24 @@
     "img/travel-nike-max-system.9605f8c.png",
     "img/travel-nike-max-whq.f47158f.jpg",
     "img/travel-nike-parking.7e85663.jpg",
-    "0.nuxt.bundle.0a9404744f944b110731.js",
-    "1.nuxt.bundle.1fec3f3ef75c33659ed5.js",
+    "0.nuxt.bundle.5dac3bc74c93cc8dbabb.js",
+    "1.nuxt.bundle.8f73ea360cc941a6f24e.js",
     "2.nuxt.bundle.a7015d61d9b0ee3db5a3.js",
     "3.nuxt.bundle.b1ea8c357426b4c48b0a.js",
     "4.nuxt.bundle.1716d9d98d1b4915c2cf.js",
     "vendor.bundle.47d1fa07a426cc6bea2d.js",
     "nuxt.bundle.75c82db8582fa34b3534.js",
-    "manifest.31fd3929df52704b5ce4.js",
+    "manifest.221254d3f01d8904f91d.js",
     "index.html"
   ],
   "initial": [
-    "manifest.31fd3929df52704b5ce4.js",
+    "manifest.221254d3f01d8904f91d.js",
     "vendor.bundle.47d1fa07a426cc6bea2d.js",
     "nuxt.bundle.75c82db8582fa34b3534.js"
   ],
   "async": [
-    "0.nuxt.bundle.0a9404744f944b110731.js",
-    "1.nuxt.bundle.1fec3f3ef75c33659ed5.js",
+    "0.nuxt.bundle.5dac3bc74c93cc8dbabb.js",
+    "1.nuxt.bundle.8f73ea360cc941a6f24e.js",
     "2.nuxt.bundle.a7015d61d9b0ee3db5a3.js",
     "3.nuxt.bundle.b1ea8c357426b4c48b0a.js",
     "4.nuxt.bundle.1716d9d98d1b4915c2cf.js"
