@@ -30,7 +30,7 @@
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
-  --breakpoint-xl: 1200px;
+  --breakpoint-xl: 1500px;
   --font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
@@ -579,7 +579,7 @@ pre code {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .container {
     max-width: 1440px;
   }
@@ -1465,7 +1465,7 @@ pre code {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .col-xl {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -1929,7 +1929,7 @@ pre code {
   }
 }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 1499.98px) {
   .table-responsive-xl {
     display: block;
     width: 100%;
@@ -4213,7 +4213,7 @@ tbody.collapse.show {
   }
 }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 1499.98px) {
   .navbar-expand-xl > .container,
   .navbar-expand-xl > .container-fluid {
     padding-right: 0;
@@ -4221,7 +4221,7 @@ tbody.collapse.show {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .navbar-expand-xl {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -6418,7 +6418,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .d-xl-none {
     display: none !important;
   }
@@ -7099,7 +7099,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .flex-xl-row {
     -webkit-box-orient: horizontal !important;
     -webkit-box-direction: normal !important;
@@ -7283,7 +7283,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .float-xl-left {
     float: left !important;
   }
@@ -8467,7 +8467,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .m-xl-0 {
     margin: 0 !important;
   }
@@ -8779,7 +8779,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .text-xl-left {
     text-align: left !important;
   }
