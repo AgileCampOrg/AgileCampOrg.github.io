@@ -1,4 +1,25 @@
 /*!
+ * weakmap-polyfill v2.0.0 - ECMAScript6 WeakMap polyfill
+ * https://github.com/polygonplanet/weakmap-polyfill
+ * Copyright (c) 2015-2016 polygon planet <polygon.planet.aqua@gmail.com>
+ * @license MIT
+ */
+
+/*!
+ * weakmap-polyfill v2.0.0 - ECMAScript6 WeakMap polyfill
+ * https://github.com/polygonplanet/weakmap-polyfill
+ * Copyright (c) 2015-2016 polygon planet <polygon.planet.aqua@gmail.com>
+ * @license MIT
+ */
+
+/*! Native Promise Only
+    v0.8.1 (c) Kyle Simpson
+    MIT License: http://getify.mit-license.org
+*/
+
+/*! @vimeo/player v2.10.0 | (c) 2019 Vimeo | MIT License | https://github.com/vimeo/player.js */
+
+/*!
  * Vue.js v2.5.22
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
